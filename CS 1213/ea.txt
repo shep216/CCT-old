@@ -1,0 +1,10 @@
+Student Average Grade
+------- ------- -----
+  57683    90.2     None
+  21968    90.1     None
+  14327    75.9     None
+  86490    87.8     None
+  23516    61.4     None
+  46109    91.2     None
+
+  Class    82.8     None
